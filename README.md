@@ -1,30 +1,31 @@
 # finalcode
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sumitbhardwaj2227-9414s-projects/v0-finalcode)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/WYgYXK1PgDb)
+AI Train Traffic Control system by CODEX
+
+
+This repository contains the source code for a web-based application. It is automatically synced with the deployed version to ensure consistency between development and production.
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+All updates and changes made to the deployed app are reflected here. This ensures the repository always contains the latest working version of the project.
 
 ## Deployment
 
-Your project is live at:
+The project is currently live and accessible via its deployment URL.
 
-**[https://vercel.com/sumitbhardwaj2227-9414s-projects/v0-finalcode](https://vercel.com/sumitbhardwaj2227-9414s-projects/v0-finalcode)**
+## Development Workflow
 
-## Build your app
+1. Modify and update your project locally
+2. Push changes to this repository
+3. The deployment platform automatically updates the live version
 
-Continue building your app on:
+## Structure
 
-**[https://v0.app/chat/projects/WYgYXK1PgDb](https://v0.app/chat/projects/WYgYXK1PgDb)**
+- Frontend: HTML, CSS, JavaScript,typescript
+- Backend: Node.js, Express
+- Media Handling: Cloudinary
 
-## How It Works
+## Notes
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+This repository is intended for ongoing development and maintenance. Future updates may include enhancements to layout, accessibility, and backend logic.
